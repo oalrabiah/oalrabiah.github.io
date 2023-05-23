@@ -1,1 +1,232 @@
 
+<!DOCTYPE html>
+<html>
+
+<style>
+    body {
+        font-size: 1.07em;
+        font-family: "Palatino Linotype";
+        margin: 30px;
+    }
+    h1, h2, h3 {
+        font-family: "Palatino Linotype", serif;
+    }
+    h2 {
+      padding-top: 0.5em;
+    }
+    p {
+      font-size: 1.13em;
+    }
+    td {
+        padding: 15px;
+    }
+    @media only screen and (max-width: 1024px) {
+        td {
+            display: block;
+        }
+        tr {
+            display: block;
+        }
+        th {
+            display: block;
+        }
+    }
+</style>
+                
+<title>Sidhanth Mohanty</title>
+<body>
+
+<table cellpadding="20">
+<tr>
+<td>
+<img src="profile-pic.jpg" width="250">
+</td>
+<td>
+<font size="8"><strong>Sidhanth Mohanty</strong></font>
+<br><br>Email: sidhanthm (at) cs (dot) berkeley (dot) edu<br><br>
+        Office: 634 Soda Hall <br><br>
+</td>
+</tr>
+</table>
+<p>
+  I am a PhD student in the <a href="http://theory.cs.berkeley.edu/"> Theory Group </a> at UC Berkeley,
+  fortunate to be advised by <a href="http://people.eecs.berkeley.edu/~prasad/"> Prasad Raghavendra</a>.
+  I am generally interested in algorithms, probability, and combinatorics.  Most recently, I have been
+  trying to analyze simple local algorithms for inference problems.
+  If you happen to encounter any of my work, feel free to reach out:
+  questions and feedback are highly appreciated!
+  <br><br>
+  My undergraduate education was at Carnegie Mellon University where I was lucky to be advised by
+  <a href="http://www.cs.cmu.edu/~odonnell/">Ryan O'Donnell</a>. I am also grateful for the mentorship of
+  <a href="http://www.cs.cmu.edu/~aada/">Anil Ada</a>, <a href="http://www.cs.cmu.edu/~haeupler/">
+  Bernhard Haeupler</a>, <a href="http://procaccia.info/">Ariel Procaccia</a>, and <a href="http://www.cs.cmu.edu/~dwoodruf/">
+  David Woodruff</a> during my time at CMU.
+  <br><br>
+  My research is supported by the Google PhD Fellowship.
+</p>
+<hr />
+    
+<table>
+<tr>
+<td>
+<h3>Publications</h3>
+    
+<em>Explicit two-sided unique-neighbor expanders</em>
+[<a href="pdf/un-expanders.pdf">pdf</a>]
+<br>
+    <a href="https://jthsieh.github.io/">Jun-Ting Hsieh</a>,
+    <a href="https://math.berkeley.edu/~mckenzie/">Theo McKenzie</a>,
+    Sidhanth Mohanty, 
+    <a href="http://www.cs.cmu.edu/~preisben/">Pedro Paredes</a><br>
+Manuscript<br><br>
+
+    
+<em>Local and global expansion in random geometric graphs</em>
+[<a href="pdf/grg-hdx.pdf">pdf</a>]
+<br>
+    <a href="https://siqi-l.github.io/">Siqi Liu</a>, 
+    Sidhanth Mohanty, 
+    <a href="https://tselilschramm.org/">Tselil Schramm</a>, 
+    <a href="https://people.eecs.berkeley.edu/~elizabeth_yang/">Elizabeth Yang</a><br>
+STOC 2023<br><br>
+
+    
+<em>A simple and sharper proof of the hypergraph Moore bound</em>
+[<a href="pdf/hypergraph-moore.pdf">pdf</a>]    
+<br>
+    <a href="https://jthsieh.github.io/">Jun-Ting Hsieh</a>,
+    <a href="http://www.cs.cmu.edu/~praveshk/">Pravesh K. Kothari</a>,
+    Sidhanth Mohanty<br>
+SODA 2023<br><br>
+    
+    
+<em>Testing thresholds for high-dimensional sparse random geometric graphs</em>
+[<a href="pdf/grg.pdf">pdf</a>]
+<br>
+    <a href="https://siqi-l.github.io/">Siqi Liu</a>, 
+    Sidhanth Mohanty, 
+    <a href="https://tselilschramm.org/">Tselil Schramm</a>, 
+    <a href="https://people.eecs.berkeley.edu/~elizabeth_yang/">Elizabeth Yang</a><br>
+STOC 2022<br>
+<b>Invited to SICOMP Special Issue for STOC 2022</b>
+<br><br>
+    
+<em>Many nodal domains in random regular graphs</em>
+[<a href="pdf/nodal-domains.pdf">pdf</a>]
+<br>
+    <a href="https://www.stat.berkeley.edu/~sganguly/">Shirshendu Ganguly</a>, <a href="https://math.berkeley.edu/~mckenzie/">Theo McKenzie</a>,
+    Sidhanth Mohanty,
+    <a href="https://math.berkeley.edu/~nikhil/">Nikhil Srivastava</a><br>
+Communications in Mathematical Physics, to appear<br><br>
+    
+    
+<em>Certifying solution geometry in random CSPs: counts, clusters and balance</em>
+[<a href="pdf/cert-sol-geo.pdf">pdf</a>]
+<br>
+    <a href="https://jthsieh.github.io/">Jun-Ting Hsieh</a>, Sidhanth Mohanty,
+    <a href="https://www.andrew.cmu.edu/user/sichaoxu/">Jeff Xu</a><br>
+CCC 2022<br><br>
+    
+<em>On statistical inference when fixed points of belief propagation are unstable</em>
+[<a href="pdf/cavity-to-spectral.pdf">pdf</a>]
+<br>
+    <a href="https://siqi-l.github.io/">Siqi Liu</a>, Sidhanth Mohanty,
+    <a href="http://people.eecs.berkeley.edu/~prasad">Prasad Raghavendra</a><br>
+FOCS 2021<br><br>
+    
+<em>High-girth near-Ramanujan graphs with lossy vertex expansion</em>
+[<a href="pdf/lossy-girth-ramanujan.pdf">pdf</a>]
+<br>
+    <a href="https://math.berkeley.edu/~mckenzie/">Theo McKenzie</a>, Sidhanth Mohanty<br>
+ICALP 2021<br><br>
+    
+<em>Local Statistics, Semidefinite Programming, and Community Detection</em>
+[<a href="pdf/loc-stats.pdf">pdf</a>]
+<br>
+    <a href="https://math.berkeley.edu/~jbanks/">Jess Banks</a>, Sidhanth Mohanty,
+    <a href="http://people.eecs.berkeley.edu/~prasad">Prasad Raghavendra</a><br>
+SODA 2021<br><br>
+
+<em>List Decodable Mean Estimation in Nearly Linear Time</em>
+[<a href="pdf/list-dec-mean.pdf">pdf</a>]
+<br>
+    <a href="https://yeshwanth94.github.io/">Yeshwanth Cherapanamjeri</a>, Sidhanth Mohanty,
+    <a href="https://dblp.org/pers/y/Yau:Morris.html">Morris Yau</a><br>
+FOCS 2020<br><br>
+    
+<em>Lifting Sum-of-Squares Lower Bounds: Degree-2 to Degree-4</em>
+[<a href="pdf/sos-lifts.pdf">pdf</a>]
+<br>
+    Sidhanth Mohanty, <a href="http://people.eecs.berkeley.edu/~prasad">Prasad Raghavendra</a>,
+    <a href="https://www.andrew.cmu.edu/user/sichaoxu/">Jeff Xu</a><br>
+STOC 2020<br><br>
+    
+<em>Explicit near-Ramanujan graphs of every degree</em>
+[<a href="pdf/explicit-near-ramanujan.pdf">pdf</a>]
+<br>
+    Sidhanth Mohanty, <a href="http://www.cs.cmu.edu/~odonnell/">Ryan O'Donnell</a>,
+    <a href="http://www.cs.cmu.edu/~preisben/">Pedro Paredes</a><br>
+STOC 2020<br>
+SIAM Journal on Computing 2021 <br>
+<b>SICOMP Special Issue for STOC 2020</b>
+<br><br>
+
+<em>The SDP value for random two-eigenvalue CSPs</em>
+[<a href="pdf/SDP-val-two-eigen.pdf">pdf</a>]
+<br>
+Sidhanth Mohanty, <a href="http://www.cs.cmu.edu/~odonnell/">Ryan O'Donnell</a>,
+    <a href="http://www.cs.cmu.edu/~preisben/">Pedro Paredes</a><br>
+STACS 2020<br><br>
+
+<em>Pseudo-deterministic Streaming</em>
+[<a href="pdf/pd-streaming.pdf">pdf</a>]
+<br>
+    <a href="http://people.csail.mit.edu/shafi/">Shafi Goldwasser</a>,
+    <a href="https://dblp.org/pers/g/Grossman:Ofer.html">Ofer Grossman</a>,
+    Sidhanth Mohanty,
+    <a href="http://www.cs.cmu.edu/~dwoodruf/">David P. Woodruff</a><br>
+ITCS 2020<br><br>
+
+<em>High-Dimensional Expanders from Expanders</em>
+[<a href="pdf/hdx-from-exp.pdf">pdf</a>]
+<br>
+    <a href="https://siqi-l.github.io/">Siqi Liu</a>,
+    Sidhanth Mohanty, <a href="https://people.eecs.berkeley.edu/~elizabeth_yang/">Elizabeth Yang</a><br>
+ITCS 2020<br><br>
+    
+<em>X-Ramanujan Graphs</em>
+[<a href="pdf/X-Ramanujan-Graphs.pdf">pdf</a>]
+<br>
+Sidhanth Mohanty, <a href="http://www.cs.cmu.edu/~odonnell/">Ryan O'Donnell</a><br>
+SODA 2020<br><br>
+  
+<em>On Sketching the q to p norms</em>
+[<a href="pdf/sketching_matrix_norms.pdf">pdf</a>]
+<br>
+    <a href="https://dblp.org/pers/k/Krishnan:Aditya.html">Aditya Krishnan</a>,
+    Sidhanth Mohanty,
+    <a href="http://www.cs.cmu.edu/~dwoodruf/">David P. Woodruff</a><br>
+APPROX 2018<br><br>
+
+<em>Algorithms for Noisy Broadcast with Erasures</em>
+[<a href="pdf/noisy_distributed.pdf">pdf</a>, <a href="pdf/noisy_broadcast_talk.pdf">slides</a>]
+<br>
+<a href="https://dblp.org/pers/g/Grossman:Ofer.html">Ofer Grossman</a>,
+    <a href="http://www.cs.cmu.edu/~haeupler/">Bernhard Haeupler</a>,
+    Sidhanth Mohanty<br>
+ICALP 2018<br><br>
+
+</td>
+
+<td valign="top">
+<h3>Other exposition</h3>
+<em>Local-to-global theorems for high-dimensional expansion</em>
+[<a href="pdf/local-to-global.pdf">pdf</a>]<br>
+<br><br>
+</td>
+
+</tr>
+</table>    
+
+</body>
+</html>
