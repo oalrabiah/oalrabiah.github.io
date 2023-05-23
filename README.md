@@ -39,7 +39,7 @@
 <table cellpadding="20">
 <tr>
 <td>
-<img src="profile-pic.jpg" width="250">
+<img src="profile-pic.jpeg" width="250">
 </td>
 <td>
 <font size="8"><strong>Sidhanth Mohanty</strong></font>
